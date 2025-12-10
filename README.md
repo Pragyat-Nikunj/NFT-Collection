@@ -46,7 +46,7 @@ lib/        # External dependencies
 ### Installation
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/Pragyat-Nikunj/NFT-Collection
 cd nft-collection
 forge install
 ```
